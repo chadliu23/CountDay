@@ -4,8 +4,8 @@ This is for counting day
 
 # function
 
-## upward counting
+* Upward counting
 
-## downward counting
+* Downward counting
 
-## counting two diff days
+* Counting two diff days
